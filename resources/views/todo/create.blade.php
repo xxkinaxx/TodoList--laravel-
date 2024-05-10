@@ -15,7 +15,7 @@
                     </div>
                     <div class="col-12">
                         <label for="inputDeadline" class="form-label">Deadline (*Optional)</label>
-                        <input type="text" class="form-control" id="inputDeadline" name="deadline">
+                        <input type="date" class="form-control" id="inputDeadline" name="deadline">
                     </div>
                 </div>
                 <div class="modal-footer">
