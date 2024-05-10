@@ -44,7 +44,7 @@ class TodoListController extends Controller
         ]);
 
         return redirect()->back()->with('success', 'List successfuly created');
-
+        
     }
 
     /**
